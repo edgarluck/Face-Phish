@@ -1,7 +1,7 @@
-# .: Face-Phish :.
+# Face-Phish
 Social for Phishing Facebook 
 
-# .: Instalacion en Termux:.
+# Instalacion en Termux
 
 $ apt update && apt upgrade -y
 
