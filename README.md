@@ -2,7 +2,7 @@
 Social for Phishing Facebook [ version free ]
 
 # Instalacion en Linux
-* Kali
+* Kali Linux
 * Paroot OS
 * Linux Mint
 
