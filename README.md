@@ -1,6 +1,15 @@
 # Face-Phish
 Social for Phishing Facebook [ version free ]
 
+# Requisitos 
+
+* NGROK
+* php
+* openssh
+* git
+* proot
+* resolv-conf [ solo en Termux ]
+
 # Instalacion en Linux
 * Kali Linux
 * Paroot OS
