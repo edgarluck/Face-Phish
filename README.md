@@ -53,6 +53,6 @@ $ bash face-phish.sh
 
 # Telegram --> https://t.me/Linux_Informatic
 
-# La version Premiun incluye soporte , mas personalizacion y ayuda en errores relacionado con la herramienta.
+# La version Premiun incluye soporte , mas personalización y ayuda en los errores que presentas.
 
 # Contacto : https://t.me/edgarluck
