@@ -1,6 +1,8 @@
 # Face-Phish
 Social for Phishing Facebook [ version free ]
 
+* Herramienta Phishing solo para Facebook.
+
 # Requisitos 
 
 * NGROK
