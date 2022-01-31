@@ -55,4 +55,4 @@ $ bash face-phish.sh
 
 # La version Premiun incluye soporte , mas personalización y ayuda en los errores que presentas.
 
-# Contacto : https://t.me/edgarluck
+# Contactame si desea adquirirlo con un precio accesible: https://t.me/edgarluck
