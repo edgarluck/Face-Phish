@@ -54,5 +54,11 @@ $ bash face-phish.sh
 # Telegram --> https://t.me/Linux_Informatic
 
 # La version Premiun incluye soporte , mas personalización y ayuda en los errores que presentas.
-
+ 
+* Agregar imagen al enlace.
+* Agregar un Titulo.
+* Agregar una descripción.
+* Agregar un dominio.
+* Agregar un redireccionamiento de pagina.
+* Personalizar el enlace.
 # Contactame si desea adquirirlo con un precio accesible: https://t.me/edgarluck
