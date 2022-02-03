@@ -62,4 +62,4 @@ $ bash face-phish.sh
 * Agregar un redireccionamiento de pagina.
 * Personalizar el enlace.
 
-# Contactame si desea adquirirlo con un precio accesible: https://t.me/edgarluck
+# Contactame si desea adquirirlo a un precio accesible: https://t.me/edgarluck
