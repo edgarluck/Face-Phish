@@ -12,10 +12,14 @@ Social for Phishing Facebook [ version free ]
 * proot
 * resolv-conf [ solo en Termux ]
 
-# Instalacion en Linux
+# Probado en:
+
 * Kali Linux
 * Paroot OS
 * Linux Mint
+* Termux (Android)
+
+# Instalacion en Linux
 
 $ sudo apt-get update
 
