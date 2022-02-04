@@ -67,5 +67,5 @@ $ bash face-phish.sh
 * Personalizar el enlace.
 
 # Contactame si desea adquirirlo a un precio accesible: 
-> https://t.me/edgarluck
-> +51 938479613
+* https://t.me/edgarluck
+* +51 938479613
