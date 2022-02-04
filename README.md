@@ -60,7 +60,7 @@ $ bash face-phish.sh
 # La version Premiun incluye soporte , mas personalización y ayuda en los errores que presentas.
  
 * Agregar una imagen al enlace.
-> La imagen es visible en WhatsApp , Facebook , Telegram.
+> La imagen es visible en las siguientes redes sociales ( Chat ): WhatsApp , Facebook , Telegram.
 * Agregar un Titulo.
 * Agregar una descripción.
 * Agregar un dominio.
