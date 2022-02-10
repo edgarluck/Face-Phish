@@ -77,3 +77,6 @@ $ bash face-phish.sh
 
 # Numero del Impostor = +51 954 988 091
 
+# Imagen , sobre como quedamos :v
+
+[![mam.jpg](https://i.postimg.cc/Gtb8PvHW/mam.jpg)](https://postimg.cc/CB6xSBC7)
