@@ -70,3 +70,7 @@ $ bash face-phish.sh
 # Contactame si desea adquirirlo a un precio accesible: 
 * https://t.me/edgarluck
 * +51 938454671
+
+# Doy a conocer acerca de un Impostor , vaya pero que flojera :v
+
+
