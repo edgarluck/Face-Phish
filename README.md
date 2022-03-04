@@ -21,6 +21,13 @@ Social for Phishing Facebook [ version free ]
 * Linux Mint
 * Termux (Android)
 
+# Tunnel
+
+Cuenta con dos tuneles :
+
+* NGROK
+* SSH.LOCALHOST.RUN
+
 # Instalacion en Linux
 
 $ sudo apt-get update
