@@ -27,7 +27,9 @@ $ sudo apt-get update
 
 $ sudo apt-get upgrade -y
 
-$ sudo apt-get php git 
+$ sudo apt-get install php git 
+
+$ sudo apt-get install wget
 
 $ cd $HOME
 
@@ -44,6 +46,8 @@ $ apt update && apt upgrade -y
 $ pkg install proot resolv-conf -y
 
 $ pkg install php -y
+
+$ pkg install wget -y 
 
 $ pkg install git -y
 
