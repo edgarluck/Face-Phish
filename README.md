@@ -34,9 +34,13 @@ $ sudo apt-get update
 
 $ sudo apt-get upgrade -y
 
-$ sudo apt-get install php git 
+$ sudo apt-get install php git -y 
 
-$ sudo apt-get install wget
+$ sudo apt-get install wget -y
+
+$ sudo apt-get install proot -y
+
+$ sudo apt-get install ssh -y
 
 $ cd $HOME
 
@@ -57,6 +61,8 @@ $ pkg install php -y
 $ pkg install wget -y 
 
 $ pkg install git -y
+
+$ pkg install openssh -y
 
 $ cd $HOME
 
