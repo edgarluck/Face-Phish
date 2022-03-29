@@ -4,8 +4,9 @@ Social for Phishing Facebook [ version free ]
 * Herramienta Phishing para Facebook.
 
 # Screenshots
-![face1-4](https://user-images.githubusercontent.com/76820660/156854597-6e4dd11b-972d-4e59-8b3b-5870e1c0bca9.png)
-
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/76820660/156854597-6e4dd11b-972d-4e59-8b3b-5870e1c0bca9.png"></img>
+ </p>
 
 # Requisitos 
 
