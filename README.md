@@ -2,31 +2,33 @@
 Social for Phishing Facebook [ version free ]
 
 * Herramienta Phishing para Facebook.
+
+# Screenshots
 ![face1-4](https://user-images.githubusercontent.com/76820660/156854597-6e4dd11b-972d-4e59-8b3b-5870e1c0bca9.png)
 
 
 # Requisitos 
 
-* NGROK
-* php
-* openssh
-* git
-* proot
-* resolv-conf [ solo en Termux ]
+* `NGROK`
+* `php`
+* `openssh`
+* `git`
+* `proot`
+* `resolv-conf` [ solo en Termux ]
 
 # Probado en:
 
-* Kali Linux
-* Paroot OS
-* Linux Mint
-* Termux (Android)
+* `Kali Linux`
+* `Paroot OS`
+* `Linux Mint`
+* `Termux` (Android)
 
 # Tunnel
 
-Cuenta con dos tuneles :
+### Cuenta con dos tuneles :
 
-* NGROK
-* SSH.LOCALHOST.RUN
+* `NGROK`
+* `SSH.LOCALHOST.RUN`
 
 # Instalacion en Linux
 
@@ -76,16 +78,17 @@ $ bash face-phish.sh
 
 # Telegram --> https://t.me/Linux_Informatic
 
-# La version Premiun incluye soporte , mas personalización y ayuda en los errores que presentas.
+### La version Premiun incluye soporte , mas personalización y ayuda en los errores que presentas.
  
 * Agregar una imagen al enlace.
-> La imagen es visible en las siguientes redes sociales ( Chat ): WhatsApp , Facebook , Telegram.
+  
+  `La imagen es visible en las siguientes redes sociales ( Chat ): WhatsApp , Facebook , Telegram.`
 * Agregar un Titulo.
 * Agregar una descripción.
 * Agregar un dominio.
 * Agregar un redireccionamiento de pagina.
 * Personalizar el enlace.
 
-# Contactame si desea adquirirlo a un precio accesible: 
+### Contactame si desea adquirirlo a un precio accesible: 
 * https://t.me/edgarluck
-* +51 938454671
+* `+51 938454671`
