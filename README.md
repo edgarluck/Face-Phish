@@ -31,6 +31,33 @@ Social for Phishing Facebook [ version free ]
 * `NGROK`
 * `SSH.LOCALHOST.RUN`
 
+### Cuenta con el enlace acortado.
+
+# 🔰Pasos para usar el servidor ssh.localhost.run en Face-Phish (Configuración del servidor localhost.run)🔰
+
+Para empezar a usar el servidor ssh.localhost.run , que esta incluido en la herramienta Face-Phish V1.4
+
+Es necesario configurar y seguir estos pasos:
+
+* ejecutar :
+
+$ pkg install openssh -y
+
+$ ssh-keygen -t rsa
+
+* Una vez ejecutado ssh-keygen -t rsa , solo seguiremos presionando enter hasta que termine.
+
+* Siguiente es en usar el servidor manualmente
+
+$ ssh -R 80:localhost:8080 nokey@localhost.run
+
+* Una vez ejecutado nos va a realizar una pregunta y le responderemos añadiendo : yes
+
+Por lo cual empezará a iniciar el servidor ,  ahora debemos presionar : CTRL + c 
+Para salir del servidor que se esta ejecutando .
+
+Una vez hecho y realizado correctamente esos pasos ya esta listo para poder usar la Herramienta Face-Phish con el servidor ssh.localhost.run.
+
 # Instalacion en Linux
 
 $ sudo apt-get update
