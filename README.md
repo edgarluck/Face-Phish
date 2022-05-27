@@ -117,6 +117,13 @@ $ bash face-phish.sh
 * Agregar un redireccionamiento de pagina.
 * Personalizar el enlace.
 
+### Selecciona cada una de las imagenes, para visualizar la Herramienta Premium:
+
+<p>
+ * <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/76820660/170791879-45921389-ce42-47df-a5a4-c9ec6ccd61d6.png">Ver imagen 1</a><br>
+ * <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/76820660/170791883-5c04cd76-fe96-4bcd-ae19-256d71fdfb25.png">Ver imagen 2</a>
+</p>
+
 ### O Puedes solicitar tu propia herramienta personalizada.
 
 ### Contactame si desea adquirirlo a un precio accesible: 
