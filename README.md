@@ -16,6 +16,7 @@ Social for Phishing Facebook [ version free ]
 * `git`
 * `proot`
 * `resolv-conf` [ solo en Termux ]
+* `cloudflared`
 
 # Probado en:
 
@@ -26,10 +27,11 @@ Social for Phishing Facebook [ version free ]
 
 # Tunnel
 
-### Cuenta con dos tuneles :
+### Cuenta con tres tuneles :
 
 * `NGROK`
 * `SSH.LOCALHOST.RUN`
+* `CLOUDFLARED`
 
 ### Cuenta con el enlace acortado.
 
