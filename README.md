@@ -43,15 +43,15 @@ Es necesario configurar y seguir estos pasos:
 
 * ejecutar :
 
-$ pkg install openssh -y
+$ `pkg install openssh -y`
 
-$ ssh-keygen -t rsa
+$ `ssh-keygen -t rsa`
 
 * Una vez ejecutado ssh-keygen -t rsa , solo seguiremos presionando enter hasta que termine.
 
 * Siguiente es en usar el servidor manualmente
 
-$ ssh -R 80:localhost:8080 nokey@localhost.run
+$ `ssh -R 80:localhost:8080 nokey@localhost.run`
 
 * Una vez ejecutado nos va a realizar una pregunta y le responderemos añadiendo : yes
 
