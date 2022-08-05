@@ -27,13 +27,13 @@ Social for Phishing Facebook [ version free ]
 
 # Tunnel
 
-# Cuenta con tres tuneles :
+### Cuenta con tres tuneles :
 
 * `NGROK`
 * `SSH.LOCALHOST.RUN`
 * `CLOUDFLARED`
 
-### Cuenta con el enlace acortado.
+# Cuenta con el enlace acortado.
 
 # 🔰Pasos para usar el servidor ssh.localhost.run en Face-Phish (Configuración del servidor localhost.run)🔰
 
