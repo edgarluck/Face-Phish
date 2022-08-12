@@ -106,7 +106,7 @@ $ chmod +x face-phish.sh
 
 $ bash face-phish.sh
 
-# Telegram --> https://t.me/Linux_Informatic
+### Telegram --> https://t.me/Linux_Informatic
 
 # USO
 
@@ -126,7 +126,7 @@ set ltunnel ngrok
 
 Para iniciar el phishing : 01
 
-—————————————————-
+------------------------------------------
 
 Y para elegir el servidor localhost.run:
 
