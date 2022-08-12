@@ -10,13 +10,13 @@ Social for Phishing Facebook [ version free ]
 
 # Requisitos 
 
-* `NGROK`
+* `NGROK`  <a target="_blank" rel="noopener noreferrer" href="https://github.com/edgarluck/NgrokTunnel.git">Instalar ngrok</a>
 * `php`
 * `openssh`
 * `git`
 * `proot`
 * `resolv-conf` [ solo en Termux ]
-* `cloudflared`
+* `cloudflared`  <a target="_blank" rel="noopener noreferrer" href="https://github.com/edgarluck/Install_Cloudflared.git">Instalar cloudflared</a>
 
 # Probado en:
 
@@ -124,7 +124,7 @@ Para ver los servidores disponibles, ejecuta :
 
 Para elegir el servidor ngrok :
 
-set ltunnel ngrok
+`set ltunnel ngrok`
 
 Para iniciar el phishing : 01
 
@@ -132,7 +132,7 @@ Para iniciar el phishing : 01
 
 Para elegir el servidor localhost.run:
 
-set ltunnel ssh.localhost.run
+`set ltunnel ssh.localhost.run`
 
 Para iniciar el phishing : 01
 
@@ -140,7 +140,7 @@ Para iniciar el phishing : 01
 
 Para elegir el servidor cloudflared :
 
-set ltunnel cloudflared
+`set ltunnel cloudflared`
 
 Inicia phishing : 01 
 
