@@ -120,7 +120,7 @@ show tunnel
 
 +++++++++++++++++++++++++
 
-Y para elegir el servidor ngrok :
+Para elegir el servidor ngrok :
 
 set ltunnel ngrok
 
@@ -128,7 +128,7 @@ Para iniciar el phishing : 01
 
 ------------------------------------------
 
-Y para elegir el servidor localhost.run:
+Para elegir el servidor localhost.run:
 
 set ltunnel ssh.localhost.run
 
@@ -136,11 +136,13 @@ Para iniciar el phishing : 01
 
 -------------------------------------------
 
-Pata elegir el servidor cloudflared :
+Para elegir el servidor cloudflared :
 
 set ltunnel cloudflared
 
 Inicia phishing : 01 
+
+-------------------------------------------
 
 ### La version Premiun incluye soporte , mas personalización y ayuda en los errores que presentas.
  
