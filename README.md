@@ -108,6 +108,40 @@ $ bash face-phish.sh
 
 # Telegram --> https://t.me/Linux_Informatic
 
+# USO
+
+Para ver los comandos disponibles se ejecuta :
+
+help
+
+para ver los servidores disponibles., ejecuta :
+
+show tunnel
+
++++++++++++++++++++++++++
+
+Y para elegir el servidor ngrok :
+
+set ltunnel ngrok
+
+Para iniciar el phishing : 01
+
+—————————————————-
+
+Y para elegir el servidor localhost.run:
+
+set ltunnel ssh.localhost.run
+
+Para iniciar el phishing : 01
+
+-------------------------------------------
+
+Pata elegir el servidor cloudflared :
+
+set ltunnel cloudflared
+
+Inicia phishing : 01 
+
 ### La version Premiun incluye soporte , mas personalización y ayuda en los errores que presentas.
  
 * Agregar una imagen al enlace.
