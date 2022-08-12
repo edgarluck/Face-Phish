@@ -155,6 +155,9 @@ Inicia phishing : 01
   Asi poder agregar una imagen a nuestro enlace (Phishing)
   
   URL de referencia : `https://www.facebook.com/images/fb_icon_325x325.png`
+
+  Si usted quiere agregar una imagen desde el almacenamiento interno (local) tendra que adquirir la version premiun 
+  para evitar varias limitaciones , y con buenas ventajas.
    
 * En la version 1.5 , se agrego un nuevo servidor cloudflared.
 
