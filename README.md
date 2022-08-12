@@ -112,13 +112,15 @@ $ bash face-phish.sh
 
 Para ver los comandos disponibles se ejecuta :
 
-help
+`help`
 
-para ver los servidores disponibles., ejecuta :
+------------------------------------------
 
-show tunnel
+Para ver los servidores disponibles, ejecuta :
 
-+++++++++++++++++++++++++
+`show tunnel`
+
+------------------------------------------
 
 Para elegir el servidor ngrok :
 
@@ -143,6 +145,17 @@ set ltunnel cloudflared
 Inicia phishing : 01 
 
 -------------------------------------------
+
+# Funciones de las nuevas versiones publicadas
+
+* En la version 1.6 , se agrego una nueva funcion 
+  
+  Esta nueva función trata de agregar una imagen pero la imagen debe contener una URL , que terminen en .png
+  
+  URL de referencia : `https://www.facebook.com/images/fb_icon_325x325.png`
+   
+* En la version 1.5 , se agrego un nuevo servidor cloudflared.
+
 
 ### La version Premiun incluye soporte , mas personalización y ayuda en los errores que presentas.
  
