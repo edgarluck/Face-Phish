@@ -152,6 +152,8 @@ Inicia phishing : 01
   
   Esta nueva función trata de agregar una imagen pero la imagen debe contener una URL , que terminen en .png
   
+  Asi poder agregar una imagen a nuestro enlace (Phishing)
+  
   URL de referencia : `https://www.facebook.com/images/fb_icon_325x325.png`
    
 * En la version 1.5 , se agrego un nuevo servidor cloudflared.
