@@ -2,3 +2,5 @@
    motivo: huno un cambio en las url de salida del servidor;
    Antes :  lhrtunnel.link
    Ahora :  lhr.life
+   
+2. Se agrego el servidor LocalXpose.
