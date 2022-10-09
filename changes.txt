@@ -1,0 +1,4 @@
+1. Se soluciono el error del servidor ssh.localhost.run
+   motivo: huno un cambio en las url de salida del servidor;
+   Antes :  lhrtunnel.link
+   Ahora :  lhr.life
