@@ -166,6 +166,11 @@ Inicia phishing : 01
 
 # Funciones de las nuevas versiones publicadas
 
+* En la versión 1.7 , se agrego un nuevo servidor como :
+  
+  ** LocalXpose
+  ** Se soluciono la url de salida , tras un cambio en la url del servidor ssh.localhost.run
+
 * En la version 1.6 , se agrego una nueva funcion 
   
   Esta nueva función trata de agregar una imagen pero la imagen debe contener una URL , que terminen en .png
