@@ -168,8 +168,8 @@ Inicia phishing : 01
 
 * En la versión 1.7 , se agrego un nuevo servidor como :
   
-  ** LocalXpose
-  ** Se soluciono la url de salida , tras un cambio en la url del servidor ssh.localhost.run
+  * LocalXpose
+  * Se soluciono la url de salida , tras un cambio en la url del servidor ssh.localhost.run
 
 * En la version 1.6 , se agrego una nueva funcion 
   
