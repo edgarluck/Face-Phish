@@ -17,7 +17,7 @@ Social for Phishing Facebook [ version free ]
 * `proot`
 * `resolv-conf` [ solo en Termux ]
 * `cloudflared`  <a target="_blank" rel="noopener noreferrer" href="https://github.com/edgarluck/Install_Cloudflared.git">Instalar cloudflared</a>
-* `LocalXpose`
+* `LocalXpose`  <a target="_blank" rel="noopener noreferrer" href="https://github.com/edgarluck/Install_LocalXpose.git">Instalar localxpose</a>
 
 # Probado en:
 
