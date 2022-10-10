@@ -27,11 +27,12 @@ Social for Phishing Facebook [ version free ]
 
 # Tunnel
 
-### Cuenta con tres tuneles :
+### Cuenta con cuatro tuneles :
 
 * `NGROK`
 * `SSH.LOCALHOST.RUN`
 * `CLOUDFLARED`
+* `LOCALXPOSE`
 
 # Cuenta con el enlace acortado.
 
@@ -149,6 +150,14 @@ Para iniciar el phishing : 01
 Para elegir el servidor cloudflared :
 
 `set ltunnel cloudflared`
+
+Inicia phishing : 01 
+
+-------------------------------------------
+
+Para elegir el servidor localxpose :
+
+`set ltunnel localxpose`
 
 Inicia phishing : 01 
 
