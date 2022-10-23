@@ -122,7 +122,7 @@ Para agregar una imagen al enlace :
 
 `set add_foto url ENLACE`
 
-En ENLACE reemplazar por la url de la imagen que terminen en    .png 
+En `ENLACE` reemplazar por la url de la imagen que terminen en    .png 
 
 ------------------------------------------
 
