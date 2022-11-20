@@ -166,6 +166,10 @@ Inicia phishing : 01
 
 # Funciones de las nuevas versiones publicadas
 
+* En la versión 1.7 :
+  * Se agregaron nuevos comandos.
+  * Se agrego una nueva plantilla de facebook para android.
+
 * En la versión 1.7 , se agrego un nuevo servidor como :
   
   * LocalXpose
