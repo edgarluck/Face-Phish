@@ -3,3 +3,7 @@
 2. Se agregaron nuevos comandos .
 
 3. Se agrego una nueva plantilla de facebook para moviles :).
+
+4. Se recomienda cerrar termux u otra distribución de linux que este 
+   usando , y luego volver a entrar a termux I/O terminal, 
+   de ese modo la actualización ya este completo.
