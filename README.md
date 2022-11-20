@@ -166,7 +166,7 @@ Inicia phishing : 01
 
 # Funciones de las nuevas versiones publicadas
 
-* En la versión 1.7 :
+* En la versión 1.8 :
   * Se agregaron nuevos comandos.
   * Se agrego una nueva plantilla de facebook para android.
 
