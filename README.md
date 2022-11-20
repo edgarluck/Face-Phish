@@ -118,14 +118,6 @@ Para ver los comandos disponibles se ejecuta :
 
 ------------------------------------------
 
-Para agregar una imagen al enlace :
-
-`set add_foto url ENLACE`
-
-En `ENLACE` reemplazar por la url de la imagen que terminen en    .png 
-
-------------------------------------------
-
 Para ver los servidores disponibles, ejecuta :
 
 `show tunnel`
@@ -161,6 +153,22 @@ Para elegir el servidor localxpose :
 `set ltunnel localxpose`
 
 Inicia phishing : 01 
+
+-------------------------------------------
+
+Para Elegir las plantillas:
+
+ Plantilla 1: `set red facebook movil1`
+
+ Plantilla 2: `set red facebook movil2`
+
+-------------------------------------------
+
+Para agregar una imagen al enlace :
+
+`set add_foto url ENLACE`
+
+En `ENLACE` reemplazar por la url de la imagen que terminen en    .png 
 
 -------------------------------------------
 
