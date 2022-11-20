@@ -1,6 +1,5 @@
-1. Se soluciono el error del servidor ssh.localhost.run
-   motivo: huno un cambio en las url de salida del servidor;
-   Antes :  lhrtunnel.link
-   Ahora :  lhr.life
+1. SE ACTUALIZO LA HERRAMIENTA :)
    
-2. Se agrego el servidor LocalXpose.
+2. Se agregaron nuevos comandos .
+
+3. Se agrego una nueva plantilla de facebook para moviles :).
