@@ -128,15 +128,11 @@ Para elegir el servidor ngrok :
 
 `set ltunnel ngrok`
 
-Para iniciar el phishing : 01
-
 ------------------------------------------
 
 Para elegir el servidor localhost.run:
 
 `set ltunnel ssh.localhost.run`
-
-Para iniciar el phishing : 01
 
 -------------------------------------------
 
@@ -144,15 +140,11 @@ Para elegir el servidor cloudflared :
 
 `set ltunnel cloudflared`
 
-Inicia phishing : 01 
-
 -------------------------------------------
 
 Para elegir el servidor localxpose :
 
 `set ltunnel localxpose`
-
-Inicia phishing : 01 
 
 -------------------------------------------
 
@@ -168,7 +160,13 @@ Para agregar una imagen al enlace :
 
 `set add_foto url ENLACE`
 
+`set add_foto url https://www.facebook.com/images/fb_icon_325x325.png`
+
 En `ENLACE` reemplazar por la url de la imagen que terminen en    .png 
+
+-------------------------------------------
+
+Para iniciar el phishing : 01
 
 -------------------------------------------
 
