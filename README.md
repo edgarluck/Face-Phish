@@ -160,6 +160,8 @@ Para agregar una imagen al enlace :
 
 `set add_foto url ENLACE`
 
+Ej.
+
 `set add_foto url https://www.facebook.com/images/fb_icon_325x325.png`
 
 En `ENLACE` reemplazar por la url de la imagen que terminen en    .png 
