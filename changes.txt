@@ -1,9 +1,6 @@
 1. SE ACTUALIZO LA HERRAMIENTA :)
    
-2. Se agregaron nuevos comandos .
+2. Se soluciono algunos errores que presento cloudflared (termux) .
 
-3. Se agrego una nueva plantilla de facebook para moviles :).
-
-4. Se recomienda cerrar termux u otra distribución de linux que este 
-   usando , y luego volver a entrar a termux I/O terminal, 
-   de ese modo la actualización ya este completo.
+3. Se recomienda reiniciar o cerrar la terminal y volver a ejecutar manualmente la herramienta 
+   para que los cambios se apliquen correctamente , de ese modo la actualización ya este completo.
