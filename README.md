@@ -174,6 +174,10 @@ Para iniciar el phishing : 01
 
 # Funciones de las nuevas versiones publicadas
 
+* En la version 1.8.1:
+  * Se soluciono errores que presentaba cloudflared al iniciar.
+  + Mejora de diseño.
+
 * En la versión 1.8 :
   * Se agregaron nuevos comandos.
   * Se agrego una nueva plantilla de facebook para android.
