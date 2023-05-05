@@ -1,6 +1,8 @@
 1. SE ACTUALIZO LA HERRAMIENTA :)
    
-2. Se soluciono algunos errores que presento cloudflared (termux) .
+2. Se soluciono error al obtener los enlaces de ngrok.
+   url antes  : https://xxx.xxx.xxx.xxx.ngrok.io
+   url actual : https://xx.xxx.xxxx.xxxx.app
 
 3. Se recomienda reiniciar o cerrar la terminal y volver a ejecutar manualmente la herramienta 
    para que los cambios se apliquen correctamente , de ese modo la actualización ya este completo.
