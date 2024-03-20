@@ -1,6 +1,7 @@
 # Face-Phish
 Social for Phishing Facebook [ version free ]
 
+Face-Phish es una herramienta diseñada para llevar a cabo ataques de phishing específicamente dirigidos a usuarios de Facebook. Con esta herramienta, los atacantes pueden crear fácilmente páginas web falsas que imitan la apariencia de la plataforma de Facebook, con el objetivo de engañar a los usuarios para que ingresen sus credenciales de inicio de sesión. Esencialmente, Face-Phish facilita la creación de páginas de phishing que parecen legítimas, lo que aumenta la probabilidad de que las víctimas caigan en la trampa y divulguen su información confidencial.
 * Herramienta Phishing para Facebook.
 
 # Screenshots
